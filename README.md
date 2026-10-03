@@ -1,10 +1,8 @@
 ### Hi, I'm Sudhir 👋
 
-I build practical tools and ship them with tests. Try them right now, no install:
+I build practical tools and ship them with tests.
 
-| | What it is | Try it |
+| | What it is | Links |
 |---|---|---|
-| **[Job Search Organizer](https://github.com/heat23/job-search-organizer)** | A job search tracker in one HTML file. Your data stays in plain files on your computer. 156 browser tests, no dependencies. | [Live demo](https://heat23.github.io/job-search-organizer/) |
+| **[GeekWala Security Scan](https://github.com/Geekwala/security-scan-action)** | A GitHub Action that stops a build when a dependency has a vulnerability attackers are actually exploiting. | [Code](https://github.com/Geekwala/security-scan-action) |
 | **[Laravel React Starter](https://github.com/heat23/laravel-react-starter)** | A production SaaS starter: 11 feature flags, Redis-locked billing, an admin panel and 90+ tests. | [Code](https://github.com/heat23/laravel-react-starter) |
-
-[![Job Search Organizer: the live demo](https://raw.githubusercontent.com/heat23/job-search-organizer/main/docs/images/board.png)](https://heat23.github.io/job-search-organizer/)
